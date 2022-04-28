@@ -1,6 +1,6 @@
 - 👋 Hola! Soy Joe Casa
 - 👀 Estoy interesado en aprender a programar cada vez mejor"
-- 🌱 Estoy realizando el curos de Full Stack en Digital House
+- 🌱 Estoy realizando el curso de Full Stack en Digital House
 - 📫 Podes contactarme a traves de mi correo electronico. joeecasa@gmail.com
 - 
 
