@@ -1,7 +1,8 @@
-- 👋 Hola! Soy Joe Casa
-- 👀 Estoy interesado en aprender a programar cada vez mejor"
-- 🌱 Estoy realizando el curso de Full Stack en Digital House
-- 📫 Podes contactarme a traves de mi correo electronico. joeecasa@gmail.com
+- 👋 Hi! I'm Joel Casa
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Node - Express - MySQL - API's & React in DIGITAL HOUSE
+- 💞️ I’m looking to collaborate on any project that accepts a junior
+- 📫 Be in touch joeecasa@gmail.com
 - 
 
 <!---
